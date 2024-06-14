@@ -12,8 +12,8 @@
 5. **User Interaction**: End-users or system administrators typically run `wechoid.exe` during the installation or setup of licensed software. The output (the unique identification code) may need to be sent to the software vendor to obtain a valid license key or file.
 
 In summary, `wechoid.exe` is an essential tool within the Sentinel RMS Licensing System, providing a way to bind software licenses to specific hardware configurations and thus helping to enforce licensing policies and protect software from unauthorized use.
-## What is WechoidPlus?
-<p>This tool has all the features of the official **wechoid.exe** that is usually provided by the [Thales](https://cpl.thalesgroup.com/) Company. But in addition, it gives the ability to save **Locking Criteria** and **Locking Data** in a text file.</p>
+# What is WechoidPlus?
+<p>This tool has all the features of the official **wechoid.exe** that is usually provided by the</p> [Thales](https://cpl.thalesgroup.com/) <p>Company. But in addition, it gives the ability to save **Locking Criteria** and **Locking Data** in a text file.</p>
 <picture>
   <img alt="wechoid window" src="https://github.com/autosystem/WechoidPlus/blob/master/Pic/wechoidplus1.PNG">
 </picture>
@@ -25,6 +25,6 @@ In summary, `wechoid.exe` is an essential tool within the Sentinel RMS Licensing
 <picture>
   <img alt="wechoid window" src="https://github.com/autosystem/WechoidPlus/blob/master/Pic/wechoidplus3.PNG">
 </picture>
-<p></p>
-### How to Build?
+
+# How to Build?
 <p></p>Load project solution with visual studio, then build and find compiled version on bin directory.</p>
