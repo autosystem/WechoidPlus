@@ -1,1 +1,1 @@
-# Wechoid for github
+# WechoidPlus
